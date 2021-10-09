@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Older Courses
+# Older Courses
 
 * [Artificial Intelligence (Fall 2020)](https://github.com/chiayisu/Artificial_Intelligence_Course)
 * [Natural Language Processing (Fall 2020)- Nanzih Campus](https://github.com/chiayisu/Natural-Language-Processing-Fall-2020)
