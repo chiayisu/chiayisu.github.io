@@ -3,12 +3,10 @@ title: "Natural Language Processing Spring 2021"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2021-spring-teaching
----
-{% comment %} 
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "National Kaohsiung University of Science and Technology"
+date: 2020-01-01
 location: "City, Country"
-{% endcomment %} 
+---
 
 
 
@@ -23,6 +21,7 @@ The course mainly introduces the theories and applications of Natural Language P
   3. [Recipes for building an open-domain chatbot](https://arxiv.org/abs/2004.13637)
   4. [Semantically-Aligned Equation Generation for Solving and Reasoning MathWord Problems](https://www.aclweb.org/anthology/N19-1272/)
   5. [Stanza : A Python Natural Language Processing Toolkit for Many Human Languages](https://www.aclweb.org/anthology/2020.acl-demos.14/)
+
 ## Lecture 2: Introduction to Machine Learning and Text Classification
 * Lecture Slides: [PPT](https://drive.google.com/file/d/1W3lZDmiOC1J4Al4zUf-dNbJOQvySzXXe/view?usp=sharing), [PDF](https://drive.google.com/file/d/1o1xTB8dEpYuFKnZHZr47wzw9-m1v4Dpv/view?usp=sharing)
 * Reading Materials
@@ -37,12 +36,14 @@ The course mainly introduces the theories and applications of Natural Language P
    1. [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
    2. [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546)
    3. [Stanford University CS224N Lecture1 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+
 ## Lecture 4: Advanced Word Vector and Introduction to Neural Network
 * Lecture Slides: [PPT](https://drive.google.com/file/d/1JIhWbyuF5e4zdtaDSlVkTBjPJC9MYuKl/view?usp=sharing), [PDF](https://drive.google.com/file/d/1BkFV_gcImeQGZAIt7tGhBQqyUJvy4X-K/view?usp=sharing)
 * Reading Materials
   1. [GloVe: Global Vectors for Word Representation](https://www.aclweb.org/anthology/D14-1162/)
   2. [Speech and Language Processing: Information Extraction](https://web.stanford.edu/~jurafsky/slp3/) (Chapter number may vary according to the edition)
   3. [Stanford University CS224N Lecture2 and Lecture3 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+
 ## Lecture 5: Backpropagation and Computation Graphs
 * Lecture Slides: [PPT](https://drive.google.com/file/d/1O9McrY5nlS-Q-PHusKuQc6iT6TprD8Ri/view?usp=sharing), [PDF](https://drive.google.com/file/d/1cCW6MJtjoQcgaUMdvok6ZbUx9mNZ-7K2/view?usp=sharing)
 * Reading Materials
@@ -52,6 +53,7 @@ The course mainly introduces the theories and applications of Natural Language P
   4. [Adam: A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf)
   5. [An overview of gradient descent optimization algorithms](https://arxiv.org/pdf/1609.04747.pdf)
   6. [Stanford University CS224N Lecture4 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+
 ## Lecture 6: Dependency Parsing
 * Lecture Slides: [PPT](https://drive.google.com/file/d/1COCLt4zUsMZKPz3V_TRIWmOjobHnj-er/view?usp=sharing), [PDF](https://drive.google.com/file/d/1H7SHzGuNDZ_FU5tljqUelK2Oh23SUGxh/view?usp=sharing)
 * Reading Materials
@@ -61,6 +63,7 @@ The course mainly introduces the theories and applications of Natural Language P
    4. [A Fast and Accurate Dependency Parser using Neural Networks](https://www.aclweb.org/anthology/D14-1082/)
    5. [Stanford University CS224N Lecture5 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
 * [Universal Dependency Parsing](https://universaldependencies.org/)
+
 ## Lecture 7: Recurrent Neural Networks and Language Models
 * Lecture Slides: [PPT](https://drive.google.com/file/d/1ygjjkDyO_iRQsKGUKGAQurx2frCFgjjR/view?usp=sharing), [PDF](https://drive.google.com/file/d/1vCHum6Kq_w6MGMSPaHDMkk_KMvlP9WMb/view?usp=sharing)
  * Reading Materials
@@ -69,6 +72,7 @@ The course mainly introduces the theories and applications of Natural Language P
    3. [Speechless? Here’s how AI learns to finish your sentences](https://tech.fb.com/speechless-heres-how-ai-learns-to-finish-your-sentences/)
    4. [Stanford University CS224N Lecture6 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
    5. [Deep Learning - Sequence Modeling: Recurrent and Recursive Nets](https://www.deeplearningbook.org/)
+
 ## Lecture 8: Vanishing Gradients and Fancy RNNs
 * Lecture Slides: [PPT](https://drive.google.com/file/d/1jFTtKhmpCwudrM9TbsB2MBnHdmVC6K17/view?usp=sharing), [PDF](https://drive.google.com/file/d/1hWh_lonH_7PR_DgnvwNQL-Iw6Q8ZHbSR/view?usp=sharing)
 * Reading Materials
@@ -79,6 +83,7 @@ The course mainly introduces the theories and applications of Natural Language P
   5. [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
   6. [Highway Networks](https://arxiv.org/abs/1505.00387)
   7. [Stanford University CS224N Lecture7 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+
 ## Lecture 9: Machine Translation, Seq2Seq, Attention, and Transformer
 * Lecture Slides: [PPT](https://drive.google.com/file/d/1o93nLCGl9mubUGIPmLrCuyNuWJGUkGre/view?usp=sharing), [PDF](https://drive.google.com/file/d/1LDoS4D-Fbz2T0V3k1TxY16tQm3pexRTF/view?usp=sharing)
 * Reading Materials
@@ -88,14 +93,17 @@ The course mainly introduces the theories and applications of Natural Language P
     4. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://www.aclweb.org/anthology/2020.acl-main.703/)
     5. [Stanford University CS224N Lecture8 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
     6. [Stanford University CS224N Lecture13 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+
 ## Lecture 10: Task Oriented Dialogue Systems & Multi-Modal Dialog System
 * Lecture Slides: [PPT](https://drive.google.com/file/d/1Y0PBKbMGerHaoSN-s-8jAVaLCSt85WDr/view?usp=sharing), [PDF](https://drive.google.com/file/d/1Dxd5n44f4oiMQDC7EUdNmacmiNshaYRE/view?usp=sharing)
 * Reading Materials
   1.  [Speech and Language Processing: Chatbots and Dialogue Systems](https://web.stanford.edu/~jurafsky/slp3/) (Chapter number may vary according to the edition)
   2.  [Continuously Learning Neural Dialogue Management](https://arxiv.org/abs/1606.02689)
   3.  [Augment Information with Multimodal Information](https://visualqa.org/workshop_2020.html)
+
 ## Machine Learning Algorithm Implementation
 1. [Machine Learning Algorithm Implementation without Fancy Library](https://github.com/chiayisu/NLP_and_ML_Algorithm)
+
 ## Textbooks
 * Dan Jurafsky and James H. Martin, [Speech and Language Processing (3rd ed.)](https://web.stanford.edu/~jurafsky/slp3/)
 * Ian Goodfellow, Yoshua Bengio, Aaron Courville, [Deep Learning](https://www.deeplearningbook.org/)
