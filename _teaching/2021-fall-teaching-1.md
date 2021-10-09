@@ -1,12 +1,13 @@
 ---
-title: "Natural Language Processing"
+title: "Natural Language Processing Fall 2021"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2021-fall-teaching-1
-venue: "National Kaohsiung University of Science and Technology, Department"
+venue: "National Kaohsiung University of Science and Technology"
 date: 2021-09-01
 location: "City, Country"
 ---
+
 
 Course Description
 The course mainly introduces the theories and application of dialogue system. We first introduce natural language understanding (NLU). Then, we will introduce the concepts of reinforcement learning (RL). Finally, we will give lectures on the applications of dialogue system if time-permitted.
@@ -50,3 +51,83 @@ The course mainly introduces the theories and application of dialogue system. We
 ## Lecture 5: Dependency Parsing
 * Lecture Slides: [PPT](https://docs.google.com/presentation/d/1QmnOwWliA4UsDX2TlNZoll_feduDOGK7/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/107RowbVPtE65MNqKgjplPZz0Nyrpwa0-/view?usp=sharing)
 * Reading Materials
+   1. [Incrementality in Deterministic Dependency Parsing](https://www.aclweb.org/anthology/W04-0308/)
+   2. [Globally Normalized Transition-Based Neural Networks](https://arxiv.org/abs/1603.06042)
+   3. [Fast and Robust Neural Network Joint Models for Statistical Machine Translation](https://www.aclweb.org/anthology/P14-1129/)
+   4. [A Fast and Accurate Dependency Parser using Neural Networks](https://www.aclweb.org/anthology/D14-1082/)
+   5. [Stanford University CS224N Lecture5 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+* [Universal Dependency Parsing](https://universaldependencies.org/)
+
+## Lecture 6: Recurrent Neural Networks and Language Models
+* Lecture Slides: [PPT](https://docs.google.com/presentation/d/1zPjGRoYNbx6yLOQDIEoDeJL-3_R2Vy5b/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1moONQvJA7MtkF7jrWbTjrbHSUNXnWmZ_/view?usp=sharing)
+ * Reading Materials
+   1. [Speech and Language Processing: N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/) (Chapter number may vary according to the edition)
+   2. [Deep Visual-Semantic Alignments for Generating Image Descriptions](https://arxiv.org/abs/1412.2306)
+   3. [Speechless? Here’s how AI learns to finish your sentences](https://tech.fb.com/speechless-heres-how-ai-learns-to-finish-your-sentences/)
+   4. [Stanford University CS224N Lecture6 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+   5. [Deep Learning - Sequence Modeling: Recurrent and Recursive Nets](https://www.deeplearningbook.org/)
+
+## Lecture 7: Vanishing Gradients and Fancy RNNs
+* Lecture Slides: [PPT](https://docs.google.com/presentation/d/14-laGM-JhLFysUtkNfM6nrNeQ8nIsHZ7/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1f4XgFpyYk64V__iNF4Kghqn-ik41QqBf/view?usp=sharing)
+* Reading Materials
+  1. [On the difficulty of training Recurrent Neural Networks](https://arxiv.org/abs/1211.5063)
+  2. [Assessing the Ability of LSTMs to Learn Syntax-Sensitive Dependencies](https://www.aclweb.org/anthology/Q16-1037/)
+  3. [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)
+  4. [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+  5. [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
+  6. [Highway Networks](https://arxiv.org/abs/1505.00387)
+  7. [Stanford University CS224N Lecture7 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+
+## Lecture 8: Machine Translation, Seq2Seq, Attention, and Transformer
+* Lecture Slides: [PPT](https://docs.google.com/presentation/d/1DiGPzhFnS9xplDbTPo9YvYpkrqZIRGpk/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1lBmX4aagj8LLlEq-cTAjS9zpSnILMB0H/view?usp=sharing)
+* Reading Materials
+    1. [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+    2. [Attention Is All You Need](http://nlp.seas.harvard.edu/2018/04/03/attention.html) (Code Explanation)
+    3. [Layer Normalization](https://arxiv.org/abs/1607.06450)
+    4. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://www.aclweb.org/anthology/2020.acl-main.703/)
+    5. [Stanford University CS224N Lecture8 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+    6. [Stanford University CS224N Lecture13 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+
+## Lecture 9: Introduction to Reinforcement Learning
+* Lecture Slides: [PPT](https://docs.google.com/presentation/d/1DiGPzhFnS9xplDbTPo9YvYpkrqZIRGpk/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1AEOBbx-_oBipDA1fSUtm0m8fhSX62d3o/view?usp=sharing)
+  1. [Introduction to Reinforcement Learning with David Silver Lecture1](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
+
+## Lecture 10: Markov Decision Processes
+* Lecture Slides: [PPT](https://docs.google.com/presentation/d/17ycg4sXuZ0eS3hoUOWe6I6f8bE79eip6/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1NLX7GcU9u-CgDIbUfo1dG_aGycmKNC_A/view?usp=sharing)
+  1. [Introduction to Reinforcement Learning with David Silver Lecture2](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
+
+## Lecture 11: Planning by Dynamic Programming
+* Lecture Slides: [PPT](https://docs.google.com/presentation/d/1SoDChXYUkTiZGzo3ITwVNtS6_Q1bPjn4/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1t3xkzRB8sH6VuH5rMOiSZOjf4XJ7sHhW/view?usp=sharing)
+  1. [Introduction to Reinforcement Learning with David Silver Lecture3](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
+
+## Lecture 12: Model-Free Prediction
+* Lecture Slides: [PPT](https://docs.google.com/presentation/d/1frGqUtSnufxiJMysWgYxjo2M41DT9tQg/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1IjKrb-IpQQrGNcRxw5tP8DaaLoLqmLnS/view?usp=sharing)
+  1. [Introduction to Reinforcement Learning with David Silver Lecture4](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
+
+## Lecture 13: Model-Free Control
+* Lecture Slides: [PPT](https://docs.google.com/presentation/d/1OHccT8YgfhC-3prALNlJV35i9OkgnvoX/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1jl_JadUrUcYMo7qnODNZRttn1Dv4dUNF/view?usp=sharing)
+  1. [Introduction to Reinforcement Learning with David Silver Lecture5](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
+
+## Lecture 14: Value Function Approximation
+* Lecture Slides: [PPT](https://docs.google.com/presentation/d/1rmKN-BIKkGJ8j_SS0RLQjZDZbHT-SkST/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1Y769SCXITfTOzVi04RbYApEEWG2ODnLd/view?usp=sharing)
+  1. [Introduction to Reinforcement Learning with David Silver Lecture6](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
+
+## Lecture 15: Task Oriented Dialogue Systems & Multi-Modal Dialog System
+* Lecture Slides: [PPT](https://docs.google.com/presentation/d/11f2EDsAGIPUQSDQ4L0u7OznhRaUEUB3i/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1K20SnPiTsFqklK6Vell3y3WnzNR8yGqA/view?usp=sharing)
+* Reading Materials
+  1.  [Speech and Language Processing: Chatbots and Dialogue Systems](https://web.stanford.edu/~jurafsky/slp3/) (Chapter number may vary according to the edition)
+  2.  [Continuously Learning Neural Dialogue Management](https://arxiv.org/abs/1606.02689)
+  3.  [Sample-efficient Actor-Critic Reinforcement Learning with Supervised Data for Dialogue Management](https://arxiv.org/abs/1707.00130)
+  4.  [Augment Information with Multimodal Information](https://visualqa.org/workshop_2020.html)
+
+## Textbooks
+* Jurafsky and Martin, [Speech and Language Processing (3rd ed.)](https://web.stanford.edu/~jurafsky/slp3/)
+* Goodfellow, Bengio, and Courville, [Deep Learning](https://www.deeplearningbook.org/)
+* Zhang et al., [Dive into Deep Learning](https://d2l.ai/)
+* Sutton and Barto [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
+* Vitay, [Deep Reinforcement Learning](https://julien-vitay.net/deeprl/)
+
+## Online Courses
+* [CS224n: Natural Language Processing with Deep Learning(2019 Edition)](http://web.stanford.edu/class/cs224n/)
+* [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
+* [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
