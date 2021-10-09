@@ -2,7 +2,7 @@
 title: "Natural Language Processing Spring 2021"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2021-spring-teaching
+permalink: /teaching/2021-spring-teaching2
 venue: "National Kaohsiung University of Science and Technology"
 date: 2021-01-01
 location: "City, Country"
