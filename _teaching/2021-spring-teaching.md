@@ -1,15 +1,16 @@
 ---
-title: "Natural Language Processing"
+title: "Natural Language Processing Spring 2021"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2021-spring-teaching
+---
 {% comment %} 
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
 {% endcomment %} 
----
-# Natural Language Processing Spring 2021
+
+
 
 ## Course Description
 The course mainly introduces the theories and applications of Natural Language Processing (NLP). This course starts from basic concepts of NLP to the-state-of-the-art NLP algorithms such as transformer. Also, this course will introduce how to apply the concepts that learnt in this course to task-oriented dialog system and introduce some concepts of reinforcement learning if time-permitted.
