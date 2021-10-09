@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2021-spring-teaching
 venue: "National Kaohsiung University of Science and Technology"
-date: 2021
+date: 2021-01-01
 location: "City, Country"
 ---
 
