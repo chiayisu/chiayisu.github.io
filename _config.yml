@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Chia-Yi Su"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Chia-Yi Su"
 description              : &description "personal description"
 url                      : https://chiayisu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -230,7 +230,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: projects
+      type: portfolio
     values:
       layout: single
       author_profile: true
