@@ -18,14 +18,8 @@ Education
 
 Work experience
 ======
-* **Software Engineering Intern**  <br> Hewlett Packard Enterprise <br> July 2019 - June 2020
-  * Automated 100 test cases with Robot Framework
-  * Trimmed down test time from 10 days to 4 hours only
-  * Proposed and developed Intuitive Web Test Automation Functions to allow other developers to develop automation programs with intuitive command
-  * Assisted to teach automation course
-  * Developed web that allows user to retrieve information front-end
-
 * **Resesrch Assistant** <br> National Kaohsiung University of Science and Technology <br> July 2020 - Present
+  * Researching Interactive Dialog System, Natural Language Understanding, Human-Computer Interaction, and Reinforcement Learning
   * Proposing Minister of Science and Technology projects
   * Conducting Minister of Science and Technology projects
   * Composing final reports
@@ -33,8 +27,16 @@ Work experience
 * **Teaching Assistant** <br> National Kaohsiung University of Science and Technology <br> September 2019 - Present
   * Instructing natural language processing and deep learning (Graduate-Level)
   * Advising undergraduate students on the software engineering course
-  *	Designed software engineering course schedule
+  * Designed software engineering course schedule
   * Advised in-service master's program student on thesis
+
+* **Software Engineering Intern**  <br> Hewlett Packard Enterprise <br> July 2019 - June 2020
+  * Automated 100 test cases with Robot Framework
+  * Trimmed down test time from 10 days to 4 hours only
+  * Proposed and developed Intuitive Web Test Automation Functions to allow other developers to develop automation programs with intuitive command
+  * Assisted to teach automation course
+  * Developed web that allows user to retrieve information front-end
+
 
 Self-Learning Online Program
 ======

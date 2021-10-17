@@ -9,7 +9,7 @@ location: "City, Country"
 ---
 
 
-Course Description
+## Course Description
 The course mainly introduces the theories and application of dialogue system. We first introduce natural language understanding (NLU). Then, we will introduce the concepts of reinforcement learning (RL). Finally, we will give lectures on the applications of dialogue system if time-permitted.
 
 ## Lecture 0: Introduction to my Dialog System Research
