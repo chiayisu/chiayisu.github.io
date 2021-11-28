@@ -49,7 +49,7 @@ The course mainly introduces the theories and application of dialogue system. We
   6. [Stanford University CS224N Lecture4 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
 
 ## Lecture 5: Dependency Parsing
-* Lecture Slides: [PPT](https://docs.google.com/presentation/d/1QmnOwWliA4UsDX2TlNZoll_feduDOGK7/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/107RowbVPtE65MNqKgjplPZz0Nyrpwa0-/view?usp=sharing)
+* Lecture Slides: [PPT](https://docs.google.com/presentation/d/1QmnOwWliA4UsDX2TlNZoll_feduDOGK7/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1Y4zmOYnCqE1SGqwusuS9l5kEvY_Av5Uh/view?usp=sharing)
 * Reading Materials
    1. [Incrementality in Deterministic Dependency Parsing](https://www.aclweb.org/anthology/W04-0308/)
    2. [Globally Normalized Transition-Based Neural Networks](https://arxiv.org/abs/1603.06042)
@@ -84,32 +84,46 @@ The course mainly introduces the theories and application of dialogue system. We
     1. [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
     2. [Attention Is All You Need](http://nlp.seas.harvard.edu/2018/04/03/attention.html) (Code Explanation)
     3. [Layer Normalization](https://arxiv.org/abs/1607.06450)
-    4. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://www.aclweb.org/anthology/2020.acl-main.703/)
-    5. [Stanford University CS224N Lecture8 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
-    6. [Stanford University CS224N Lecture13 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+    4. [Universal Language Model Fine-tuning for Text Classification](https://aclanthology.org/P18-1031/)
+    5. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://aclanthology.org/N19-1423/)
+    6. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://www.aclweb.org/anthology/2020.acl-main.703/)
+    7. [Stanford University CS224N Lecture8 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+    8. [Stanford University CS224N Lecture13 (2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
 
 ## Lecture 9: Introduction to Reinforcement Learning
-* Lecture Slides: [PPT](https://docs.google.com/presentation/d/1DiGPzhFnS9xplDbTPo9YvYpkrqZIRGpk/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1AEOBbx-_oBipDA1fSUtm0m8fhSX62d3o/view?usp=sharing)
+* Lecture Slides: [PPT](https://docs.google.com/presentation/d/1yFV6x3vaNYDLd1tjIFRqrTyraYVuGYZc/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1AEOBbx-_oBipDA1fSUtm0m8fhSX62d3o/view?usp=sharing)
+* Reading Materials
   1. [Introduction to Reinforcement Learning with David Silver Lecture1](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
+* Papers related to examples in lecture
+  1. [Learning to Drive in a Day](https://arxiv.org/abs/1807.00412)
+  2. [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/abs/1606.01541)
+  3. [Don’t Until the Final Verb Wait: Reinforcement Learning for Simultaneous Machine Translation](https://aclanthology.org/D14-1140/)
+  4. [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/abs/1806.10293)
+  5. [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236?wm=book_wap_0005)
 
 ## Lecture 10: Markov Decision Processes
 * Lecture Slides: [PPT](https://docs.google.com/presentation/d/17ycg4sXuZ0eS3hoUOWe6I6f8bE79eip6/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1NLX7GcU9u-CgDIbUfo1dG_aGycmKNC_A/view?usp=sharing)
+* Reading Materials
   1. [Introduction to Reinforcement Learning with David Silver Lecture2](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
 
 ## Lecture 11: Planning by Dynamic Programming
 * Lecture Slides: [PPT](https://docs.google.com/presentation/d/1SoDChXYUkTiZGzo3ITwVNtS6_Q1bPjn4/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1t3xkzRB8sH6VuH5rMOiSZOjf4XJ7sHhW/view?usp=sharing)
+* Reading Materials
   1. [Introduction to Reinforcement Learning with David Silver Lecture3](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
 
 ## Lecture 12: Model-Free Prediction
 * Lecture Slides: [PPT](https://docs.google.com/presentation/d/1frGqUtSnufxiJMysWgYxjo2M41DT9tQg/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1IjKrb-IpQQrGNcRxw5tP8DaaLoLqmLnS/view?usp=sharing)
+* Reading Materials
   1. [Introduction to Reinforcement Learning with David Silver Lecture4](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
 
 ## Lecture 13: Model-Free Control
 * Lecture Slides: [PPT](https://docs.google.com/presentation/d/1OHccT8YgfhC-3prALNlJV35i9OkgnvoX/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1jl_JadUrUcYMo7qnODNZRttn1Dv4dUNF/view?usp=sharing)
+* Reading Materials
   1. [Introduction to Reinforcement Learning with David Silver Lecture5](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
 
 ## Lecture 14: Value Function Approximation
 * Lecture Slides: [PPT](https://docs.google.com/presentation/d/1rmKN-BIKkGJ8j_SS0RLQjZDZbHT-SkST/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1Y769SCXITfTOzVi04RbYApEEWG2ODnLd/view?usp=sharing)
+* Reading Materials
   1. [Introduction to Reinforcement Learning with David Silver Lecture6](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
 
 ## Lecture 15: Task Oriented Dialogue Systems & Multi-Modal Dialog System
@@ -121,13 +135,18 @@ The course mainly introduces the theories and application of dialogue system. We
   4.  [Augment Information with Multimodal Information](https://visualqa.org/workshop_2020.html)
 
 ## Textbooks
-* Jurafsky and Martin, [Speech and Language Processing (3rd ed.)](https://web.stanford.edu/~jurafsky/slp3/)
-* Goodfellow, Bengio, and Courville, [Deep Learning](https://www.deeplearningbook.org/)
-* Zhang et al., [Dive into Deep Learning](https://d2l.ai/)
-* Sutton and Barto [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
-* Vitay, [Deep Reinforcement Learning](https://julien-vitay.net/deeprl/)
+* Natural Language Processing
+  * Jurafsky and Martin, [Speech and Language Processing (3rd ed.)](https://web.stanford.edu/~jurafsky/slp3/)
+* Deep Learning
+  * Goodfellow, Bengio, and Courville, [Deep Learning](https://www.deeplearningbook.org/)
+  * Zhang et al., [Dive into Deep Learning](https://d2l.ai/)
+* Reinforcement Learning
+  * Sutton and Barto [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
+  * Vitay, [Deep Reinforcement Learning](https://julien-vitay.net/deeprl/)
 
 ## Online Courses
-* [CS224n: Natural Language Processing with Deep Learning(2019 Edition)](http://web.stanford.edu/class/cs224n/)
-* [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
-* [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
+* Natural Language Processing and Deep Learning
+  * [CS224n: Natural Language Processing with Deep Learning(2019 Edition)](http://web.stanford.edu/class/cs224n/)
+* Reinforcement Learning
+  * [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
+  * [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
