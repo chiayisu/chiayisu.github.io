@@ -8,7 +8,6 @@ author_profile: true
 ### Projects
 
 * Dialog System for Information Retrieval
-	* Paper submitted and in preparation
 
 * (Sub-Project 4) Pig Health Profiles of Diet and Activity Assessment Based on IoT Blockchain 
 	* Fund by Taiwan Minister of Science and Technology in Taiwan, ROC
