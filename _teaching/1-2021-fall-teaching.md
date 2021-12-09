@@ -141,7 +141,7 @@ The course mainly introduces the theories and application of dialogue system. We
   * Goodfellow, Bengio, and Courville, [Deep Learning](https://www.deeplearningbook.org/)
   * Zhang et al., [Dive into Deep Learning](https://d2l.ai/)
 * Reinforcement Learning
-  * Sutton and Barto [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
+  * Sutton and Barto, [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
   * Vitay, [Deep Reinforcement Learning](https://julien-vitay.net/deeprl/)
 
 ## Online Courses
