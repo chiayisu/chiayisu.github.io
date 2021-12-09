@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### CS Related Video Lectures from US University
-* See this [File](../files/Open_Course.pdf)
+* See this [File](../files/Open_Course.pdf)(Last update: Dec. 2020)
 
 ### LaTex Related
 * [LaTex Guide in Overleaf](https://www.overleaf.com/learn)
