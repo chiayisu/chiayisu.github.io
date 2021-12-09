@@ -12,8 +12,8 @@ I'm a final-year master student at [National Kaohsiung University of Technology 
 
 Outside research, I like jogging, swimming, biking, traveling, and reading. 
 
-The recent book that I finished is [Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell](https://www.amazon.com/Trillion-Dollar-Coach-Leadership-Playbook/dp/0062839268)
+The recent book that I finished is [Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell](https://www.amazon.com/Trillion-Dollar-Coach-Leadership-Playbook/dp/0062839268).
 
 News
 ======
-October 2021, Site published
+October 2021, Site published.
