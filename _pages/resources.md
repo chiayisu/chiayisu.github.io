@@ -26,7 +26,7 @@ author_profile: true
 * Information Retrieval
 	1. Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)
 
-### Journal Related
+### Publication Related
 * [Writing a Journal Cover Letter (Free Template)](https://www.aje.com/arc/writing-cover-letter/) by Ben Mudrak
 
 ### Code Related
