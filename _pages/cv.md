@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.S. in Electronic Engineering, National Kaohsiung University of Science and Technology, Taiwan, ROC, 2022 (expected)
+* M.S. in Electronic Engineering, National Kaohsiung University of Science and Technology, Taiwan, R.O.C., 2022 (expected)
   * Advisor: Professor [Tsong-Yi Chen](http://www.msp.nkust.edu.tw/en/%e9%99%b3%e8%81%b0%e6%af%85%e5%8a%a9%e7%90%86%e6%95%99%e6%8e%88/)
-* B.S. in Electronic Engineering, National Kaohsiung University of Science and Technology, Taiwan, ROC, 2020
+* B.S. in Electronic Engineering, National Kaohsiung University of Science and Technology, Taiwan, R.O.C., 2020
   * Advisor: Professor [Tsong-Yi Chen](http://www.msp.nkust.edu.tw/en/%e9%99%b3%e8%81%b0%e6%af%85%e5%8a%a9%e7%90%86%e6%95%99%e6%8e%88/)
 
 Work experience
@@ -43,6 +43,7 @@ Self-Learning Online Program
 * [**CS224n: Natural Language Processing with Deep Learning**](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/) (Stanford University)
 * [**Introduction to Reinforcement Learning with David Silver**](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) (DeepMind X UCL)
 * [**CS 285: Deep Reinforcement Learning**](http://rail.eecs.berkeley.edu/deeprlcourse/) (UC Berkeley)
+* [**Analysis of Algorithms Lectures**](https://www3.cs.stonybrook.edu/~skiena/373/videos/)(Stony Brook University)
 {% comment %} 
 Publications
 ======
