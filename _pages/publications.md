@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 \* indicates corresponding author
-### Journal
+### Journal article
 
 Da-Jinn Wang, Tsong-Yi Chen, **Chia-Yi Su\***, AidIR: An Interactive Dialog System to Aid Disease Information Retrieval, Applied Sciences, 12(4), 2022. [[Paper]](https://www.mdpi.com/2076-3417/12/4/1875) [[Data]](https://github.com/chiayisu/ABERT_Corpus)
 
