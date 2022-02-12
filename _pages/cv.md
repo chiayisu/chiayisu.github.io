@@ -43,7 +43,7 @@ Self-Learning Online Program
 * [**CS224n: Natural Language Processing with Deep Learning**](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/) (Stanford University)
 * [**Introduction to Reinforcement Learning with David Silver**](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) (DeepMind X UCL)
 * [**CS 285: Deep Reinforcement Learning**](http://rail.eecs.berkeley.edu/deeprlcourse/) (UC Berkeley)
-* [**Analysis of Algorithms Lectures**](https://www3.cs.stonybrook.edu/~skiena/373/videos/)(Stony Brook University)
+* [**Analysis of Algorithms Lectures**](https://www3.cs.stonybrook.edu/~skiena/373/videos/) (Stony Brook University)
 {% comment %} 
 Publications
 ======
