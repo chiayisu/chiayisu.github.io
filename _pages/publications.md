@@ -4,8 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-## Publications
 \* indicates corresponding author
 ### Journal article
 
