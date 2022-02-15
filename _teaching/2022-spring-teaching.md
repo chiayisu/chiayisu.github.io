@@ -17,9 +17,9 @@ Reinforcement Learning (RL) is applied to many applications such as dialog syste
 * Reading Materials
   1. [AidIR: An Interactive Dialog System to Aid Disease Information Retrieval](https://www.mdpi.com/2076-3417/12/4/1875)
 
-<!---
+
 ## Lecture 1: Introduction to Reinforcement Learning
-* Lecture Slides: [PPT](https://docs.google.com/presentation/d/1yFV6x3vaNYDLd1tjIFRqrTyraYVuGYZc/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1AEOBbx-_oBipDA1fSUtm0m8fhSX62d3o/view?usp=sharing)
+* [Slides](../files/course_material/2022_Spring/PPT/Lecture1.pptx)
 * Reading Materials
   1. [Introduction to Reinforcement Learning with David Silver Lecture1](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
 * Papers related to examples in lecture
@@ -29,7 +29,7 @@ Reinforcement Learning (RL) is applied to many applications such as dialog syste
   4. [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/abs/1806.10293)
   5. [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236?wm=book_wap_0005)
 
-
+<!---
 ## Lecture 10: Markov Decision Processes
 * Lecture Slides: [PPT](https://docs.google.com/presentation/d/17ycg4sXuZ0eS3hoUOWe6I6f8bE79eip6/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1NLX7GcU9u-CgDIbUfo1dG_aGycmKNC_A/view?usp=sharing)
 * Reading Materials
