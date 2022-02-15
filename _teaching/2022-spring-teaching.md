@@ -2,7 +2,7 @@
 title: "Reinforcement Learning Spring 2022"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/1-2022-spring-teaching
+permalink: /teaching/2022-spring-teaching
 venue: "National Kaohsiung University of Science and Technology (Jiangong Campus)"
 date: 2021-09-01
 location: "City, Country"

@@ -2,7 +2,7 @@
 title: "Natural Language Processing Fall 2021"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2-2021-fall-teaching
+permalink: /teaching/2021-fall-teaching
 venue: "National Kaohsiung University of Science and Technology (Jiangong Campus)"
 date: 2021-09-01
 location: "City, Country"
