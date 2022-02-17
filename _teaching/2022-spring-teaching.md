@@ -66,7 +66,7 @@ Reinforcement Learning (RL) is applied to many applications such as dialog syste
   6. [An overview of gradient descent optimization algorithms](https://arxiv.org/pdf/1609.04747.pdf)
 
 ## Lecture 7: Value Function Approximation
-* [Slides](../files/course_material/2022_Spring/PPT/Lecture6.pptx)
+* [Slides](../files/course_material/2022_Spring/PPT/Lecture7.pptx)
 * Reading Materials
   1. [Introduction to Reinforcement Learning with David Silver Lecture6](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
   2. [Sutton and Barto Chapter 6](http://incompleteideas.net/book/the-book.html) (Focusing on q-learning parts would be fine)
