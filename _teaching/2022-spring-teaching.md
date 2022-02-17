@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-spring-teaching
 venue: "National Kaohsiung University of Science and Technology (Jiangong Campus)"
-date: 2021-09-01
+date: 2022-02-24
 location: "City, Country"
 ---
 
@@ -29,32 +29,49 @@ Reinforcement Learning (RL) is applied to many applications such as dialog syste
   4. [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/abs/1806.10293)
   5. [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236?wm=book_wap_0005)
 
-<!---
-## Lecture 10: Markov Decision Processes
-* Lecture Slides: [PPT](https://docs.google.com/presentation/d/17ycg4sXuZ0eS3hoUOWe6I6f8bE79eip6/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1NLX7GcU9u-CgDIbUfo1dG_aGycmKNC_A/view?usp=sharing)
+
+## Lecture 2: Markov Decision Processes
+* [Slides](../files/course_material/2022_Spring/PPT/Lecture2.pptx)
 * Reading Materials
   1. [Introduction to Reinforcement Learning with David Silver Lecture2](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
+  2. [Sutton and Barto Chapter 3](http://incompleteideas.net/book/the-book.html) 
 
-## Lecture 11: Planning by Dynamic Programming
-* Lecture Slides: [PPT](https://docs.google.com/presentation/d/1SoDChXYUkTiZGzo3ITwVNtS6_Q1bPjn4/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1t3xkzRB8sH6VuH5rMOiSZOjf4XJ7sHhW/view?usp=sharing)
+
+## Lecture 3: Planning by Dynamic Programming
+* [Slides](../files/course_material/2022_Spring/PPT/Lecture3.pptx)
 * Reading Materials
   1. [Introduction to Reinforcement Learning with David Silver Lecture3](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
+  2. [Sutton and Barto Chapter 4](http://incompleteideas.net/book/the-book.html)
 
-## Lecture 12: Model-Free Prediction
-* Lecture Slides: [PPT](https://docs.google.com/presentation/d/1frGqUtSnufxiJMysWgYxjo2M41DT9tQg/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1IjKrb-IpQQrGNcRxw5tP8DaaLoLqmLnS/view?usp=sharing)
+## Lecture 4: Model-Free Prediction
+* [Slides](../files/course_material/2022_Spring/PPT/Lecture4.pptx)
 * Reading Materials
   1. [Introduction to Reinforcement Learning with David Silver Lecture4](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
+  2. [Sutton and Barto Chapter 5 and Chapter 6](http://incompleteideas.net/book/the-book.html)(Focusing on prediction parts would be fine)
 
-## Lecture 13: Model-Free Control
-* Lecture Slides: [PPT](https://docs.google.com/presentation/d/1OHccT8YgfhC-3prALNlJV35i9OkgnvoX/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1jl_JadUrUcYMo7qnODNZRttn1Dv4dUNF/view?usp=sharing)
+## Lecture 5: Model-Free Control
+* [Slides](../files/course_material/2022_Spring/PPT/Lecture5.pptx)
 * Reading Materials
   1. [Introduction to Reinforcement Learning with David Silver Lecture5](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
+  2. [Sutton and Barto Chapter 5 and Chapter 6](http://incompleteideas.net/book/the-book.html)(Focusing on control parts would be fine)
 
-## Lecture 14: Value Function Approximation
-* Lecture Slides: [PPT](https://docs.google.com/presentation/d/1rmKN-BIKkGJ8j_SS0RLQjZDZbHT-SkST/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1Y769SCXITfTOzVi04RbYApEEWG2ODnLd/view?usp=sharing)
+## Lecture 6: Neural Network and Backpropagation
+* [Slides](../files/course_material/2022_Spring/PPT/Lecture6.pptx)
+* Reading Materials
+  1. [Stanford University CS224N Lecture3 and Lecture4(2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/) 
+  2. [Maxout Networks](https://arxiv.org/pdf/1302.4389.pdfMaxout%20Networks)
+  3. [Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
+  4. [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
+  5. [Adam: A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf)
+  6. [An overview of gradient descent optimization algorithms](https://arxiv.org/pdf/1609.04747.pdf)
+
+## Lecture 7: Value Function Approximation
+* [Slides](../files/course_material/2022_Spring/PPT/Lecture6.pptx)
 * Reading Materials
   1. [Introduction to Reinforcement Learning with David Silver Lecture6](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
-
+  2. [Sutton and Barto Chapter 6](http://incompleteideas.net/book/the-book.html)(Focusing on q-learning parts would be fine)
+  3. [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236?wm=book_wap_0005)
+<!---
 ## Lecture 15: Task Oriented Dialogue Systems & Multi-Modal Dialog System
 * Lecture Slides: [PPT](https://docs.google.com/presentation/d/11f2EDsAGIPUQSDQ4L0u7OznhRaUEUB3i/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1K20SnPiTsFqklK6Vell3y3WnzNR8yGqA/view?usp=sharing)
 * Reading Materials
