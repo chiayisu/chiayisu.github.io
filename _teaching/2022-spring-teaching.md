@@ -47,13 +47,13 @@ Reinforcement Learning (RL) is applied to many applications such as dialog syste
 * [Slides](../files/course_material/2022_Spring/PPT/Lecture4.pptx)
 * Reading Materials
   1. [Introduction to Reinforcement Learning with David Silver Lecture4](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
-  2. [Sutton and Barto Chapter 5 and Chapter 6](http://incompleteideas.net/book/the-book.html)(Focusing on prediction parts would be fine)
+  2. [Sutton and Barto Chapter 5 and Chapter 6](http://incompleteideas.net/book/the-book.html) (Focusing on prediction parts would be fine)
 
 ## Lecture 5: Model-Free Control
 * [Slides](../files/course_material/2022_Spring/PPT/Lecture5.pptx)
 * Reading Materials
   1. [Introduction to Reinforcement Learning with David Silver Lecture5](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
-  2. [Sutton and Barto Chapter 5 and Chapter 6](http://incompleteideas.net/book/the-book.html)(Focusing on control parts would be fine)
+  2. [Sutton and Barto Chapter 5 and Chapter 6](http://incompleteideas.net/book/the-book.html) (Focusing on control parts would be fine)
 
 ## Lecture 6: Neural Network and Backpropagation
 * [Slides](../files/course_material/2022_Spring/PPT/Lecture6.pptx)
@@ -69,8 +69,9 @@ Reinforcement Learning (RL) is applied to many applications such as dialog syste
 * [Slides](../files/course_material/2022_Spring/PPT/Lecture6.pptx)
 * Reading Materials
   1. [Introduction to Reinforcement Learning with David Silver Lecture6](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
-  2. [Sutton and Barto Chapter 6](http://incompleteideas.net/book/the-book.html)(Focusing on q-learning parts would be fine)
+  2. [Sutton and Barto Chapter 6](http://incompleteideas.net/book/the-book.html) (Focusing on q-learning parts would be fine)
   3. [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236?wm=book_wap_0005)
+  
 <!---
 ## Lecture 15: Task Oriented Dialogue Systems & Multi-Modal Dialog System
 * Lecture Slides: [PPT](https://docs.google.com/presentation/d/11f2EDsAGIPUQSDQ4L0u7OznhRaUEUB3i/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1K20SnPiTsFqklK6Vell3y3WnzNR8yGqA/view?usp=sharing)
