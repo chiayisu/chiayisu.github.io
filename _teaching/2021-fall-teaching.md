@@ -146,7 +146,7 @@ The course mainly introduces the theories and application of dialogue system. We
 
 ## Online Courses
 * Natural Language Processing and Deep Learning
-  * [CS224n: Natural Language Processing with Deep Learning(2019 Edition)](http://web.stanford.edu/class/cs224n/)
+  * [CS224n: Natural Language Processing with Deep Learning (2019 Edition)](http://web.stanford.edu/class/cs224n/)
 * Reinforcement Learning
   * [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
   * [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
