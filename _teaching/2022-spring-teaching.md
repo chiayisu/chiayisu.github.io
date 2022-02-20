@@ -71,7 +71,16 @@ Reinforcement Learning (RL) is applied to many applications such as dialog syste
   1. [Introduction to Reinforcement Learning with David Silver Lecture6](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
   2. [Sutton and Barto Chapter 6](http://incompleteideas.net/book/the-book.html) (Focusing on q-learning parts would be fine)
   3. [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236?wm=book_wap_0005)
-  
+
+## Lecture 8: Policy Gradient
+* [Slides](../files/course_material/2022_Spring/PPT/Lecture8.pptx)
+* Reading Materials
+1. [UC Berkeley CS 285 Deep Reinforcement Learning Lecture 5 and Lecture 9](https://rail.eecs.berkeley.edu/deeprlcourse/)
+2. [Reinforcement learning of motor skills with policy gradients](https://www.sciencedirect.com/science/article/abs/pii/S0893608008000701)
+3. [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477)
+4. [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
+5. [Lagrange multipliers and constrained optimization](https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/lagrange-multipliers-and-constrained-optimization/v/constrained-optimization-introduction)
+6. [Finding Taylor polynomial approximations of functions](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-11/v/maclaurin-and-taylor-series-intuition)
 <!---
 ## Lecture 15: Task Oriented Dialogue Systems & Multi-Modal Dialog System
 * Lecture Slides: [PPT](https://docs.google.com/presentation/d/11f2EDsAGIPUQSDQ4L0u7OznhRaUEUB3i/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1K20SnPiTsFqklK6Vell3y3WnzNR8yGqA/view?usp=sharing)
