@@ -81,6 +81,7 @@ Reinforcement Learning (RL) is applied to many applications such as dialog syste
 4. [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 5. [Lagrange multipliers and constrained optimization](https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/lagrange-multipliers-and-constrained-optimization/v/constrained-optimization-introduction)
 6. [Finding Taylor polynomial approximations of functions](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-11/v/maclaurin-and-taylor-series-intuition)
+
 <!---
 ## Lecture 15: Task Oriented Dialogue Systems & Multi-Modal Dialog System
 * Lecture Slides: [PPT](https://docs.google.com/presentation/d/11f2EDsAGIPUQSDQ4L0u7OznhRaUEUB3i/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1K20SnPiTsFqklK6Vell3y3WnzNR8yGqA/view?usp=sharing)
@@ -90,6 +91,7 @@ Reinforcement Learning (RL) is applied to many applications such as dialog syste
   3.  [Sample-efficient Actor-Critic Reinforcement Learning with Supervised Data for Dialogue Management](https://arxiv.org/abs/1707.00130)
   4.  [Augment Information with Multimodal Information](https://visualqa.org/workshop_2020.html)
 --->
+
 ## Textbooks
 * Deep Learning
   * Goodfellow, Bengio, and Courville, [Deep Learning](https://www.deeplearningbook.org/)
