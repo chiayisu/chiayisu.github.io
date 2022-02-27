@@ -12,5 +12,6 @@ I'm a final-year master student at [National Kaohsiung University of Science and
 
 News
 ======
+- February 2022, I'm pleased to join [Computer Science and Engineering](https://cse.nd.edu/) at [University of Notre Dame](https://www.nd.edu/) as a Ph.D. student starting this Fall.
 - February 2022, My paper "[AidIR: An Interactive Dialog System to Aid Disease Information Retrieval](https://www.mdpi.com/2076-3417/12/4/1875)" has been accepted to [Applied Sciences](https://www.mdpi.com/journal/applsci).
 - October 2021, Site published.
