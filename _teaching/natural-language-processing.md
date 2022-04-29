@@ -1,9 +1,9 @@
 ---
 title: "Natural Language Processing"
 collection: teaching
-type: "graduate"
+type: "graduate course"
 permalink: /teaching/natural-language-processing
-venue: ""
+venue: "National Kaohsiung University of Science and Technology"
 date: 2021-09-01
 location: "City, Country"
 ---
