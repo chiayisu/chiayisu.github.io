@@ -1,9 +1,9 @@
 ---
 title: "Natural Language Processing Spring 2021"
 collection: teaching
-type: "Graduate course"
-permalink: /teaching/2021-spring-teaching
-venue: "National Kaohsiung University of Science and Technology (Jiangong Campus)"
+type: ""
+permalink: /teaching/natural-language-processing
+venue: ""
 date: 2021-01-01
 location: "City, Country"
 ---
@@ -11,7 +11,7 @@ location: "City, Country"
 
 
 ## Course Description
-The course mainly introduces the theories and applications of Natural Language Processing (NLP). This course starts from basic concepts of NLP to the-state-of-the-art NLP algorithms such as transformer. Also, this course will introduce how to apply the concepts that learnt in this course to task-oriented dialog system and introduce some concepts of reinforcement learning if time-permitted.
+The course mainly introduces the theories and applications of Natural Language Processing (NLP). This course starts from basic concepts of NLP to the-state-of-the-art NLP algorithms such as transformer. Also, this course will introduce how to apply the concepts that learnt in this course to task-oriented dialog system.
 
 ## Lecture 1: Introduction to Natural Language Processing
 * Lecture Slides: [PPT](https://drive.google.com/file/d/1e6f12ceaBz5YpIOa8dIBVPyO0fsJQ_O7/view?usp=sharing), [PDF](https://drive.google.com/file/d/18kzde9mnlyRezQ1Xz5wx_zGfB8PsTUze/view?usp=sharing)
@@ -30,7 +30,8 @@ The course mainly introduces the theories and applications of Natural Language P
   3. [Clustering by Passing Message Between Data Points](https://www.icmla-conference.org/icmla07/FreyDueckScience07.pdf)
   4. [Affinity Propagation: A Clustering Algorithm for Computer-Assisted Business Simulations and Experiential Exercises](https://www.semanticscholar.org/paper/Affinity-Propagation%3A-A-Clustering-Algorithm-for-Thavikulwat/2c6487ca952e0297ba2b84dad6196a4d96b1d780)
   5. [Stanford University CS231N Lecture Notes on KNN](https://cs231n.github.io/classification/)
- ## Lecture 3: Distributed Representaion of Words
+ 
+## Lecture 3: Distributed Representaion of Words
  * Lecture Slides: [PPT](https://drive.google.com/file/d/136bQeifOLz6j_Uxswy0e5p9bpOScPJJp/view?usp=sharing), [PDF](https://drive.google.com/file/d/1J8LAf5h1fy9YOP81zjFiJlfbHhy6PDtT/view?usp=sharing)
  * Reading Materials
    1. [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
@@ -100,9 +101,6 @@ The course mainly introduces the theories and applications of Natural Language P
   1.  [Speech and Language Processing: Chatbots and Dialogue Systems](https://web.stanford.edu/~jurafsky/slp3/) (Chapter number may vary according to the edition)
   2.  [Continuously Learning Neural Dialogue Management](https://arxiv.org/abs/1606.02689)
   3.  [Augment Information with Multimodal Information](https://visualqa.org/workshop_2020.html)
-
-## Machine Learning Algorithm Implementation
-1. [Machine Learning Algorithm Implementation without Fancy Library](https://github.com/chiayisu/NLP_and_ML_Algorithm)
 
 ## Textbooks
 * Dan Jurafsky and James H. Martin, [Speech and Language Processing (3rd ed.)](https://web.stanford.edu/~jurafsky/slp3/)

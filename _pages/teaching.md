@@ -13,8 +13,6 @@ author_profile: true
 {% endfor %}
 -->
 
-# Other Courses
-
 * [Natural Language Processing, Fall 2021](../_teaching/natural-language-processing.md)
 * Natural Language Processing, Spring 2021
 * Artificial Intelligence, Fall 2020
