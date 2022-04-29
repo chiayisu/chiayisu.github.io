@@ -1,10 +1,7 @@
 ---
 title: "Natural Language Processing"
 collection: teaching
-type: ""
 permalink: /teaching/natural-language-processing
-venue: ""
-date: 2021-09-01
 location: "City, Country"
 ---
 
