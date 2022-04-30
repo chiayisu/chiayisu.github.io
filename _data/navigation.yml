@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
-    url: /projects/    
+  - title: "Side Projects"
+    url: /side_projects/    
 
   - title: "Teaching"
     url: /teaching/ 
