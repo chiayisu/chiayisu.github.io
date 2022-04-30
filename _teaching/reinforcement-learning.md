@@ -3,7 +3,7 @@ title: "Reinforcement Learning Spring 2022"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-spring-teaching
-venue: "National Kaohsiung University of Science and Technology (Jiangong Campus)"
+venue: "National Kaohsiung University of Science and Technology"
 date: 2022-02-24
 location: "City, Country"
 ---
@@ -19,7 +19,7 @@ Reinforcement Learning (RL) is applied to many applications such as dialog syste
 
 
 ## Lecture 1: Introduction to Reinforcement Learning
-* [Slides](../files/course_material/2022_Spring/PPT/Lecture1.pptx)
+* [Slides](../files/course_material/reinforcement-learning/PPT/Lecture1.pptx)
 * Reading Materials
   1. [Introduction to Reinforcement Learning with David Silver Lecture1](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
 * Papers related to examples in lecture
@@ -31,32 +31,32 @@ Reinforcement Learning (RL) is applied to many applications such as dialog syste
 
 
 ## Lecture 2: Markov Decision Processes
-* [Slides](../files/course_material/2022_Spring/PPT/Lecture2.pptx)
+* [Slides](../files/course_material/reinforcement-learning/PPT/Lecture2.pptx)
 * Reading Materials
   1. [Introduction to Reinforcement Learning with David Silver Lecture2](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
   2. [Sutton and Barto Chapter 3](http://incompleteideas.net/book/the-book.html) 
 
 
 ## Lecture 3: Planning by Dynamic Programming
-* [Slides](../files/course_material/2022_Spring/PPT/Lecture3.pptx)
+* [Slides](../files/course_material/reinforcement-learning/PPT/Lecture3.pptx)
 * Reading Materials
   1. [Introduction to Reinforcement Learning with David Silver Lecture3](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
   2. [Sutton and Barto Chapter 4](http://incompleteideas.net/book/the-book.html)
 
 ## Lecture 4: Model-Free Prediction
-* [Slides](../files/course_material/2022_Spring/PPT/Lecture4.pptx)
+* [Slides](../files/course_material/reinforcement-learning/PPT/Lecture4.pptx)
 * Reading Materials
   1. [Introduction to Reinforcement Learning with David Silver Lecture4](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
   2. [Sutton and Barto Chapter 5 and Chapter 6](http://incompleteideas.net/book/the-book.html) (Focusing on prediction parts would be fine)
 
 ## Lecture 5: Model-Free Control
-* [Slides](../files/course_material/2022_Spring/PPT/Lecture5.pptx)
+* [Slides](../files/course_material/reinforcement-learning/PPT/Lecture5.pptx)
 * Reading Materials
   1. [Introduction to Reinforcement Learning with David Silver Lecture5](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
   2. [Sutton and Barto Chapter 5 and Chapter 6](http://incompleteideas.net/book/the-book.html) (Focusing on control parts would be fine)
 
 ## Lecture 6: Neural Network and Backpropagation
-* [Slides](../files/course_material/2022_Spring/PPT/Lecture6.pptx)
+* [Slides](../files/course_material/reinforcement-learning/PPT/Lecture6.pptx)
 * Reading Materials
   1. [Stanford University CS224N Lecture3 and Lecture4(2019 Edition)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/) 
   2. [Maxout Networks](https://arxiv.org/pdf/1302.4389.pdfMaxout%20Networks)
@@ -66,14 +66,14 @@ Reinforcement Learning (RL) is applied to many applications such as dialog syste
   6. [An overview of gradient descent optimization algorithms](https://arxiv.org/pdf/1609.04747.pdf)
 
 ## Lecture 7: Value Function Approximation
-* [Slides](../files/course_material/2022_Spring/PPT/Lecture7.pptx)
+* [Slides](../files/course_material/reinforcement-learning/PPT/Lecture7.pptx)
 * Reading Materials
   1. [Introduction to Reinforcement Learning with David Silver Lecture6](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
   2. [Sutton and Barto Chapter 6](http://incompleteideas.net/book/the-book.html) (Focusing on q-learning parts would be fine)
   3. [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236?wm=book_wap_0005)
 
 ## Lecture 8: Policy Gradient
-* [Slides](../files/course_material/2022_Spring/PPT/Lecture8.pptx)
+* [Slides](../files/course_material/reinforcement-learning/PPT/Lecture8.pptx)
 * Reading Materials
 1. [UC Berkeley CS 285 Deep Reinforcement Learning Lecture 5 and Lecture 9](https://rail.eecs.berkeley.edu/deeprlcourse/)
 2. [Reinforcement learning of motor skills with policy gradients](https://www.sciencedirect.com/science/article/abs/pii/S0893608008000701)
