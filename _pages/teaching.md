@@ -12,7 +12,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
-
+* [Reinforcement Learning, Spring 2022](../_teaching/reinforcement-learning.md)
 * [Natural Language Processing, Fall 2021](../_teaching/natural-language-processing.md)
 * Natural Language Processing, Spring 2021
 * Artificial Intelligence, Fall 2020
