@@ -19,14 +19,14 @@ Education
 Work experience
 ======
 * **Resesrch Assistant** <br> National Kaohsiung University of Science and Technology <br> July 2020 - Present
-  * Researching Interactive Dialog System, Natural Language Understanding, Human-Computer Interaction, and Reinforcement Learning
-  * Proposing Minister of Science and Technology projects
-  * Conducting Minister of Science and Technology projects
-  * Composing final reports
+  * Conducting research on interactive dialog system, natural language understanding, human-computer interaction, and reinforcement learning
+  * Proposed Minister of Science and Technology projects
+  * Conducted Minister of Science and Technology projects
+  * Composed final reports
 
 * **Teaching Assistant** <br> National Kaohsiung University of Science and Technology <br> September 2019 - Present
-  * Instructing natural language processing and deep learning (Graduate-Level)
-  * Advising undergraduate students on the software engineering course
+  * Instructing natural language processing and reinforcement learning (graduate-level)
+  * Advised undergraduate students on the software engineering course
   * Designed software engineering course schedule
   * Advised in-service master's program student on thesis
 
