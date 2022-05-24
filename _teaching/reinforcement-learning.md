@@ -82,6 +82,15 @@ Reinforcement Learning (RL) is applied to many applications such as dialog syste
 5. [Lagrange multipliers and constrained optimization](https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/lagrange-multipliers-and-constrained-optimization/v/constrained-optimization-introduction)
 6. [Finding Taylor polynomial approximations of functions](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-11/v/maclaurin-and-taylor-series-intuition)
 
+## Lecture 9: Actor-Critic Algorithm
+* [Slides](../files/course_material/reinforcement-learning/PPT/Lecture9.pptx)
+* Reading Materials
+1. [UC Berkeley CS 285 Deep Reinforcement Learning Lecture 6](https://rail.eecs.berkeley.edu/deeprlcourse/)
+2. [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)
+3. [Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic](https://arxiv.org/abs/1611.02247)
+4. [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438)
+5. [Deep Reinforcement Learning - Advantage Actor-Critic methods](https://julien-vitay.net/deeprl/ActorCritic.html#sec:advantage-actor-critic-methods)
+
 <!---
 ## Lecture 15: Task Oriented Dialogue Systems & Multi-Modal Dialog System
 * Lecture Slides: [PPT](https://docs.google.com/presentation/d/11f2EDsAGIPUQSDQ4L0u7OznhRaUEUB3i/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1K20SnPiTsFqklK6Vell3y3WnzNR8yGqA/view?usp=sharing)
