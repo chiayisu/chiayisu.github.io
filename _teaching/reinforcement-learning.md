@@ -91,6 +91,12 @@ Reinforcement Learning (RL) is applied to many applications such as dialog syste
 4. [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438)
 5. [Deep Reinforcement Learning - Advantage Actor-Critic methods](https://julien-vitay.net/deeprl/ActorCritic.html#sec:advantage-actor-critic-methods)
 
+## Lecture 10: Variational Inference and Generative Models
+* [Slides](../files/course_material/reinforcement-learning/PPT/variational_inference.pptx)
+* Reading Materials
+1. [UC Berkeley CS 285 Deep Reinforcement Learning Lecture 18](https://rail.eecs.berkeley.edu/deeprlcourse/)
+
+
 <!---
 ## Lecture 15: Task Oriented Dialogue Systems & Multi-Modal Dialog System
 * Lecture Slides: [PPT](https://docs.google.com/presentation/d/11f2EDsAGIPUQSDQ4L0u7OznhRaUEUB3i/edit?usp=sharing&ouid=114043367878486864741&rtpof=true&sd=true), [PDF](https://drive.google.com/file/d/1K20SnPiTsFqklK6Vell3y3WnzNR8yGqA/view?usp=sharing)
