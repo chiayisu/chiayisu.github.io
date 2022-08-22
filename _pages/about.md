@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Computer Science and Engineering Ph.D. student at [University of Notre Dame](https://www.nd.edu), proudly advised by [Yanfang (Fanny) Ye](http://yes-lab.org/). My research areas include data mining, machine learning, and health intelligence. Before Notre Dame, my research mainly foucues on interactive dialog systems for disease information retrieval.  
+I'm a Computer Science and Engineering Ph.D. student at [University of Notre Dame](https://www.nd.edu), proudly advised by [Yanfang (Fanny) Ye](http://yes-lab.org/). My research areas include data mining, machine learning, and health intelligence. Specifically, I will focus my research on graph learning and analysis. Before Notre Dame, my research mainly foucued on interactive dialog systems for disease information retrieval.  
 
 News
 ======
