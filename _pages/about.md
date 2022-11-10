@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Computer Science and Engineering Ph.D. student at [University of Notre Dame](https://www.nd.edu). My research areas include data mining, machine learning, and health intelligence. Specifically, I will focus my research on graph learning and analysis. Before Notre Dame, my research mainly foucued on interactive dialog systems for disease information retrieval.  
+I'm a Computer Science and Engineering Ph.D. student at [University of Notre Dame](https://www.nd.edu). My research areas include graph learning and analysis and reinforcement learning. Before Notre Dame, my research mainly foucued on interactive dialog systems for disease information retrieval.  
 
 News
 ======
