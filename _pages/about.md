@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Computer Science and Engineering Ph.D. student at [University of Notre Dame](https://www.nd.edu), proudly advised by [Yanfang (Fanny) Ye](http://yes-lab.org/). My research areas include data mining, machine learning, and health intelligence. Specifically, I will focus my research on graph learning and analysis. Before Notre Dame, my research mainly foucued on interactive dialog systems for disease information retrieval.  
+I'm a Computer Science and Engineering Ph.D. student at [University of Notre Dame](https://www.nd.edu). My research areas include data mining, machine learning, and health intelligence. Specifically, I will focus my research on graph learning and analysis. Before Notre Dame, my research mainly foucued on interactive dialog systems for disease information retrieval.  
 
 News
 ======
-- March 2022, I'm pleased to join Professor [Yanfang (Fanny) Ye](http://yes-lab.org/)'s team in [Computer Science and Engineering](https://cse.nd.edu/) at [University of Notre Dame](https://www.nd.edu/) as a Ph.D. student starting this Fall.
+- March 2022, I'm pleased to attend [Computer Science and Engineering](https://cse.nd.edu/) at [University of Notre Dame](https://www.nd.edu/) as a Ph.D. student starting this Fall.
 - February 2022, My paper "[AidIR: An Interactive Dialog System to Aid Disease Information Retrieval](https://www.mdpi.com/2076-3417/12/4/1875)" has been accepted to [Applied Sciences](https://www.mdpi.com/journal/applsci).
 - October 2021, Site published.
