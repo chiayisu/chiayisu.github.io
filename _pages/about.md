@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Computer Science and Engineering Ph.D. student at [University of Notre Dame](https://www.nd.edu). My research areas include graph learning and analysis and reinforcement learning. Before Notre Dame, my research mainly foucued on interactive dialog systems for disease information retrieval.  
+I'm a Computer Science and Engineering Ph.D. student at [University of Notre Dame](https://www.nd.edu), advised by Prof. [Collin McMillan](https://www3.nd.edu/~cmc/) in [Automatic Program Comprehension Lab](https://github.com/apcl-research). My research areas are at the intersection of software engineering and natural language processing. Specifically, I focus on code summarization.
 
 <!---
 News
