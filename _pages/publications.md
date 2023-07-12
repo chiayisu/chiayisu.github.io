@@ -4,10 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-\* indicates corresponding author
-### Journal article
+A. Bansal, **C. Su**, Z. Karas, Y. Zhang, Y. Huang, T. Li, C. McMillan, "Modeling Programmer Attention as Scanpath Prediction", in 38th IEEE/ACM International Conference on Automated Software Engineering, New Ideas and Emerging Results (ASE'23 NIER), September 11 - 15, 2023.
 
-Da-Jinn Wang, Tsong-Yi Chen, **Chia-Yi Su\***, AidIR: An Interactive Dialog System to Aid Disease Information Retrieval, Applied Sciences, 12(4), 2022. [[Paper]](https://www.mdpi.com/2076-3417/12/4/1875) [[Data]](https://github.com/chiayisu/ABERT_Corpus) [[bibtex]](../files/bibtex/aidir.bib)
+D. Wang, T. Chen, **C. Su**, AidIR: An Interactive Dialog System to Aid Disease Information Retrieval, Applied Sciences, 12(4), 2022. [[Paper]](https://www.mdpi.com/2076-3417/12/4/1875) [[Data]](https://github.com/chiayisu/ABERT_Corpus) [[bibtex]](../files/bibtex/aidir.bib)
 
 
 {% comment %} 
