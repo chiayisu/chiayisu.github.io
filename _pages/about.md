@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Computer Science and Engineering Ph.D. student at [University of Notre Dame](https://www.nd.edu), advised by Prof. [Collin McMillan](https://www3.nd.edu/~cmc/) in [Automatic Program Comprehension Lab](https://github.com/apcl-research). My research areas are at the intersection of software engineering and natural language processing. Specifically, I focus on code summarization.
+I'm a Computer Science and Engineering Ph.D. student at [University of Notre Dame](https://cse.nd.edu/), advised by Prof. [Collin McMillan](https://www3.nd.edu/~cmc/) in [Automatic Program Comprehension Lab](https://github.com/apcl-research). My research areas are at the intersection of software engineering and natural language processing. Specifically, I focus on code summarization.
 
 <!---
 News
