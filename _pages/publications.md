@@ -4,8 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**C. Su** and C. Mcmillan, "Distilled gpt for source code summarization", in Automated Software Engineering (AUSE), accepted.[[Preprint]](https://arxiv.org/abs/2308.14731) [[Code]](https://github.com/apcl-research/Jam-CGPT) [[Data and Model]](https://huggingface.co/apcl)
 
-**C. Su**, A. Bansal, V. Jain, S. Ghanavati, C. Mcmillan, "A Language Model of Java Methods with Train/Test Deduplication", in 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, Tool Demos (ESEC/FSE '23),  San Francisco, California, USA, December 3-9, 2023. [[Paper]](https://arxiv.org/abs/2305.08286) [[Code]](https://github.com/apcl-research/jam) [[Data and Model]](https://huggingface.co/apcl)
+**C. Su**, A. Bansal, V. Jain, S. Ghanavati, C. Mcmillan, "A Language Model of Java Methods with Train/Test Deduplication", in 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, Tool Demos (ESEC/FSE '23),  San Francisco, California, USA, December 3-9, 2023. [[Preprint]](https://arxiv.org/abs/2305.08286) [[Code]](https://github.com/apcl-research/jam) [[Data and Model]](https://huggingface.co/apcl)
 
 A. Bansal, **C. Su**, Z. Karas, Y. Zhang, Y. Huang, T. Li, C. McMillan, "Modeling Programmer Attention as Scanpath Prediction", in 38th IEEE/ACM International Conference on Automated Software Engineering, New Ideas and Emerging Results (ASE'23 NIER), September 11 - 15, 2023.
 
