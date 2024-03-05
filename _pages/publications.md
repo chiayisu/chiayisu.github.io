@@ -10,7 +10,7 @@ author_profile: true
 
 ### **2024**
 
-**C. Su** and C. Mcmillan, "Distilled GPT for Source Code Summarization", in Automated Software Engineering Journal ([ASE Journal](https://link.springer.com/journal/10515)), accepted.[[Preprint]](https://arxiv.org/abs/2308.14731) [[Code]](https://github.com/apcl-research/Jam-CGPT) [[Data and Model]](https://huggingface.co/apcl)
+**C. Su** and C. Mcmillan, "Distilled GPT for Source Code Summarization", in Automated Software Engineering Journal ([ASE Journal](https://link.springer.com/journal/10515)), Volume 31, article 22, 2024. [[Preprint]](https://arxiv.org/abs/2308.14731) [[Code]](https://github.com/apcl-research/Jam-CGPT) [[Data/Model]](https://huggingface.co/apcl)
 
 ### **2023**
 
