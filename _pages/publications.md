@@ -20,7 +20,7 @@ A. Bansal, **C. Su**, Z. Karas, Y. Zhang, Y. Huang, T. Li, C. McMillan, "Modelin
 
 ### **2022**
 
-D. Wang, T. Chen, **C. Su**, AidIR: An Interactive Dialog System to Aid Disease Information Retrieval, Applied Sciences, 12(4), 2022. [[Paper]](https://www.mdpi.com/2076-3417/12/4/1875) [[Data]](https://github.com/chiayisu/ABERT_Corpus) [[BibTex]](../files/bibtex/aidir.bib)
+D. Wang, T. Chen, **C. Su**, AidIR: An Interactive Dialog System to Aid Disease Information Retrieval, Applied Sciences, 12(4), 2022. [[Paper]](https://www.mdpi.com/2076-3417/12/4/1875) [[Data]](https://github.com/chiayisu/ABERT_Corpus)
 
 
 {% comment %} 
