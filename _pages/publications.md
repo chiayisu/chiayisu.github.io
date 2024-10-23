@@ -13,7 +13,7 @@ author_profile: true
 
 **C. Su** and C. McMillan, "Semantic Similarity Loss for Neural Source Code Summarization", in Journal of Software Evolution and Process (JSME), accepted, 2024. [[arXiv]](https://arxiv.org/abs/2308.07429) [[Code]](https://github.com/apcl-research/funcom-useloss) [[Data/Model]](https://huggingface.co/apcl)
 
-**C. Su** and C. McMillan, "Distilled GPT for Source Code Summarization", in Automated Software Engineering Journal ([ASE Journal](https://link.springer.com/journal/10515)), Volume 31, article 22, 2024. [[arXiv]](https://arxiv.org/abs/2308.14731) [[Code]](https://github.com/apcl-research/Jam-CGPT) [[Data/Model]](https://huggingface.co/apcl) Journal-first presentation at [ASE'24](https://conf.researchr.org/home/ase-2024)
+**C. Su** and C. McMillan, "Distilled GPT for Source Code Summarization", in Automated Software Engineering Journal ([ASE Journal](https://link.springer.com/journal/10515)), Volume 31, article 22, 2024. [[arXiv]](https://arxiv.org/abs/2308.14731) [[Code]](https://github.com/apcl-research/Jam-CGPT) [[Data/Model]](https://huggingface.co/apcl) **Journal-first presentation at [ASE'24](https://conf.researchr.org/home/ase-2024)**
 
 ### **2023**
 
