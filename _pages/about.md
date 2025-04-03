@@ -18,6 +18,8 @@ Student Volunteer: [ASE'24](https://conf.researchr.org/home/ase-2024)
 
 PC member: [ASE'25 NIER](https://conf.researchr.org/track/ase-2025/ase-2025-nier-track)
 
+Reviewer: [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem)
+
 <!---
 News
 ======
