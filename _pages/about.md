@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Computer Science and Engineering Ph.D. student at [University of Notre Dame](https://cse.nd.edu/), advised by Prof. [Collin McMillan](https://sdf.org/~cmc/) in [Automatic Program Comprehension Lab](https://github.com/apcl-research). My research areas are at the intersection of software engineering and natural language processing. Specifically, I focus on code summarization.
+I'm a Computer Science and Engineering Ph.D. Candidate at [University of Notre Dame](https://cse.nd.edu/), advised by Prof. [Collin McMillan](https://sdf.org/~cmc/) in [Automatic Program Comprehension Lab](https://github.com/apcl-research). My research areas are at the intersection of software engineering and natural language processing. Specifically, I focus on code summarization.
 
 I am actively looking for full-time ML/LLM research scientist opportunities in the industry starting September/December 2025. If you know of any opportunity, please feel free to reach out!
 
