@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Computer Science and Engineering Ph.D. Candidate at [University of Notre Dame](https://cse.nd.edu/), advised by Prof. [Collin McMillan](https://sdf.org/~cmc/) in [Automatic Program Comprehension Lab](https://github.com/apcl-research). My research focuses on developing and evaluating large language models (LLMs) for source code summarization, with a particular emphasis on aligning model behavior with how human programmers comprehend and describe code. I combine empirical software engineering techniques with deep learning for program comprehension. My work aims to bridge the gap between automated code intelligence and human-level comprehension.
 
-I am actively looking for full-time ML/LLM research scientist opportunities in the industry starting September/December 2025. If you know of any opportunity, please feel free to reach out!
+I am actively looking for full-time ML/LLM research scientist opportunities in the industry starting 2025/2026. If you know of any opportunity, please feel free to reach out!
 
 Activities
 ===========
