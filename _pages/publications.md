@@ -9,7 +9,7 @@ author_profile: true
 {% endif %}
 
 ### **2025**
-**C. Su**, A. Bansal, Y. Huang, T. Li, C. McMillan, "Context-aware Code Summary Generation", in Journal of Systems and Software ([Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software)), Accepted, [[arXiv]](https://arxiv.org/abs/2408.09006)
+**C. Su**, A. Bansal, Y. Huang, T. Li, C. McMillan, "Context-aware Code Summary Generation", in Journal of Systems and Software ([JSS](https://www.sciencedirect.com/journal/journal-of-systems-and-software)), Accepted, [[arXiv]](https://arxiv.org/abs/2408.09006)
 
 ### **2024**
 **C. Su**, A. Bansal, C. McMillan, "Revisiting File Context for Source Code Summarization", in Automated Software Engineering Journal ([ASE Journal](https://link.springer.com/journal/10515)), Volume 31, article 62, 2024, [[arXiv]](https://arxiv.org/abs/2309.02326)
