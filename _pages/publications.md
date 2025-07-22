@@ -9,12 +9,12 @@ author_profile: true
 {% endif %}
 
 ### **2025**
-**C. Su**, A. Bansal, Y. Huang, T. Li, C. McMillan, "Context-aware Code Summary Generation", in Journal of Systems and Software ([JSS](https://www.sciencedirect.com/journal/journal-of-systems-and-software)), Accepted, [[arXiv]](https://arxiv.org/abs/2408.09006)
+**C. Su**, A. Bansal, Y. Huang, T. Li, C. McMillan, "Context-aware Code Summary Generation", in Journal of Systems and Software ([JSS](https://www.sciencedirect.com/journal/journal-of-systems-and-software)), Accepted, [[arXiv]](https://arxiv.org/abs/2408.09006) [[Code]](https://github.com/apcl-research/jam-contextsum) [[Data and Model]](https://huggingface.co/apcl)
 
 ### **2024**
 **C. Su**, A. Bansal, C. McMillan, "Revisiting File Context for Source Code Summarization", in Automated Software Engineering Journal ([ASE Journal](https://link.springer.com/journal/10515)), Volume 31, article 62, 2024, [[arXiv]](https://arxiv.org/abs/2309.02326)
 
-**C. Su** and C. McMillan, "Semantic Similarity Loss for Neural Source Code Summarization", in Journal of Software Evolution and Process (JSME), accepted, 2024. [[arXiv]](https://arxiv.org/abs/2308.07429) [[Code]](https://github.com/apcl-research/funcom-useloss) [[Data/Model]](https://huggingface.co/apcl)
+**C. Su** and C. McMillan, "Semantic Similarity Loss for Neural Source Code Summarization", in Journal of Software Evolution and Process ([JSEP](https://onlinelibrary.wiley.com/journal/20477481)), accepted, 2024. [[arXiv]](https://arxiv.org/abs/2308.07429) [[Code]](https://github.com/apcl-research/funcom-useloss) [[Data/Model]](https://huggingface.co/apcl)
 
 **C. Su** and C. McMillan, "Distilled GPT for Source Code Summarization", in Automated Software Engineering Journal ([ASE Journal](https://link.springer.com/journal/10515)), Volume 31, article 22, 2024. [[arXiv]](https://arxiv.org/abs/2308.14731) [[Code]](https://github.com/apcl-research/Jam-CGPT) [[Data/Model]](https://huggingface.co/apcl) **Journal-first presentation at [ASE'24](https://conf.researchr.org/home/ase-2024)**
 
