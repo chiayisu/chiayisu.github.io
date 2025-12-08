@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Computer Science and Engineering Ph.D. Candidate at [University of Notre Dame](https://cse.nd.edu/), advised by Prof. [Collin McMillan](https://sdf.org/~cmc/) in [Automatic Program Comprehension Lab](https://github.com/apcl-research). I work on large language models (LLMs) for program comprehension tasks. Specifically, I focus on aligning model behavior with how human programmers comprehend and describe code. My work aims to bridge the gap between automated code intelligence and human-level code comprehension.
 
-I am actively looking for full-time ML/LLM research scientist opportunities in the industry starting 2025/2026. If you know of any opportunity, please feel free to reach out!
+I am actively looking for Assistant Professor or full-time research scientist opportunities in the industry starting 2025/2026. If you know of any opportunity, please feel free to reach out!
 
 Activities
 ===========
@@ -18,7 +18,7 @@ Student Volunteer: [ASE'24](https://conf.researchr.org/home/ase-2024)
 
 PC member: [ASE'25 NIER](https://conf.researchr.org/track/ase-2025/ase-2025-nier-track)
 
-Reviewer: [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem), [Automated Software Engineering Journal](https://link.springer.com/journal/10515)
+Reviewer: [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem), [Springer Automated Software Engineering Journal](https://link.springer.com/journal/10515)
 
 <!---
 News
