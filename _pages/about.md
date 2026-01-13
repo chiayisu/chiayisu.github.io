@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm an ABD Ph.D. Candidate in Computer Science and Engineering at [University of Notre Dame](https://cse.nd.edu/), advised by [Collin McMillan](https://sdf.org/~cmc/) in [Automatic Program Comprehension Lab](https://github.com/apcl-research). I work on large language models (LLMs) for program comprehension tasks. Specifically, I focus on aligning model behavior with how human programmers comprehend and describe code. My work aims to bridge the gap between automated code intelligence and human-level code comprehension.
+I'm an ABD Ph.D. Candidate in Computer Science and Engineering at [University of Notre Dame](https://cse.nd.edu/), advised by [Collin McMillan](https://sdf.org/~cmc/) in [Automatic Program Comprehension Lab](https://github.com/apcl-research). My research interests lie in Artificial Intelligence (AI) with the applications to Software Engineering (SE). I blends empirical study that understands how human programmers comprehend code with model development to develop a model that mimics what human prorammers would do. My work aims to bridge the gap between automated code intelligence and human-level code comprehension. Specifically, here are some questions that I have explored:
+- Does LLMs demonstrate the anthropologic behaviors in software engineering tasks ? ([preprint](https://arxiv.org/abs/2505.12118))
+- How can we develop a model that predicts the programmers attention ? ([ASE'23 NIER](https://ieeexplore.ieee.org/abstract/document/10298441))
+- How can we develop a model that aligns with human behaviors ? (ICPC'26 Demo), ([JSS 2025](https://www.sciencedirect.com/science/article/abs/pii/S0164121225002493)), ([ASE Journal 2024](https://link.springer.com/article/10.1007/s10515-024-00421-4)), ([ASE Journal 2024](https://link.springer.com/article/10.1007/s10515-024-00460-x)),  ([JSEP 2024](https://onlinelibrary.wiley.com/doi/10.1002/smr.2706?af=R))
+  
 
-I am actively looking for Assistant Professor or full-time research scientist opportunities in the industry starting 2025/2026. If you know of any opportunity, please feel free to reach out!
+I am on the job market in 2026. If you know of any opportunity, please feel free to reach out!
 
 Activities
 ===========
