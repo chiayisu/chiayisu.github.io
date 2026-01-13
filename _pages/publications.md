@@ -9,7 +9,7 @@ author_profile: true
 {% endif %}
 
 ### **2026**
-**C. Su** and C. McMillan, "CMind: An AI Agent for Localizing C Memory Bugs", in 34th IEEE/ACM International Conference on Program Comprehension, Tool Demos ([ICPC'26 Demo](https://conf.researchr.org/track/icpc-2026/icpc-2026-tool-demonstration)), April 12 - 13, 2026.
+**C. Su** and C. McMillan, "CMind: An AI Agent for Localizing C Memory Bugs", in 34th IEEE/ACM International Conference on Program Comprehension, Tool Demos ([ICPC'26 Demo](https://conf.researchr.org/track/icpc-2026/icpc-2026-tool-demonstration)), April 12 - 13, 2026. [[guide](https://apclbuglocalizer.github.io/)]
 
 ### **2025**
 **C. Su**, A. Bansal, Y. Huang, T. Li, C. McMillan, "Context-aware Code Summary Generation", in Journal of Systems and Software ([JSS](https://www.sciencedirect.com/journal/journal-of-systems-and-software)), Accepted, [[arXiv]](https://arxiv.org/abs/2408.09006) [[Code]](https://github.com/apcl-research/jam-contextsum) [[Data and Model]](https://huggingface.co/apcl)
