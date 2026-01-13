@@ -14,7 +14,7 @@ I'm an ABD Ph.D. Candidate in Computer Science and Engineering at [University of
 - How can we develop a model that aligns with human behaviors ? (ICPC'26 Demo), ([JSS 2025](https://www.sciencedirect.com/science/article/abs/pii/S0164121225002493)), ([ASE Journal 2024](https://link.springer.com/article/10.1007/s10515-024-00421-4)), ([ASE Journal 2024](https://link.springer.com/article/10.1007/s10515-024-00460-x)),  ([JSEP 2024](https://onlinelibrary.wiley.com/doi/10.1002/smr.2706?af=R))
   
 
-I am on the job market in 2026. If you know of any opportunity, please feel free to reach out!
+**I am on the job market in 2026. If you know of any opportunity, please feel free to reach out!**
 
 Activities
 ===========
