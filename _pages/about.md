@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm an ABD Ph.D. Candidate in Computer Science and Engineering at [University of Notre Dame](https://cse.nd.edu/), advised by [Collin McMillan](https://sdf.org/~cmc/) in [Automatic Program Comprehension Lab](https://github.com/apcl-research). My research interests lie in human-like artificial intelligence with the applications to Software Engineering (SE). I develop human-aligned LLMs based on the empirical study that understands how human programmers comprehend code in various software engineering tasks. My goal is to increase the productivity of software engineer by developing human-like software angents. Specifically, here are some questions that I have explored:
+I'm an ABD Ph.D. Candidate in Computer Science and Engineering at [University of Notre Dame](https://cse.nd.edu/), advised by [Collin McMillan](https://sdf.org/~cmc/) in [Automatic Program Comprehension Lab](https://github.com/apcl-research). My research interests lie in human-like artificial intelligence with the applications to Software Engineering (SE). I develop human-aligned LLMs based on the empirical studies that understands how human programmers comprehend code in various SE tasks (e.g. source code summarization and bug localization). My goal is to increase the productivity of software engineer by developing human-like software angents. Here are some RQs that I have explored:
 - Does LLMs demonstrate human cognition in code intelligence tasks ? ([preprint](https://arxiv.org/abs/2505.12118))
-- How can we develop a model that predicts the programmers attention ? ([ASE'23 NIER](https://ieeexplore.ieee.org/abstract/document/10298441))
+- How can we develop a model to predict programmer visual attention ? ([ASE'23 NIER](https://ieeexplore.ieee.org/abstract/document/10298441))
 - How can we develop a model that aligns with human cognition ? ([ICPC'26 Demo](https://arxiv.org/abs/2601.14434)), ([JSS 2025](https://www.sciencedirect.com/science/article/abs/pii/S0164121225002493)), ([ASE Journal 2024](https://link.springer.com/article/10.1007/s10515-024-00421-4)), ([ASE Journal 2024](https://link.springer.com/article/10.1007/s10515-024-00460-x)),  ([JSEP 2024](https://onlinelibrary.wiley.com/doi/10.1002/smr.2706?af=R))
   
 
