@@ -15,6 +15,7 @@ author_profile: true
 
 Outside of work, I like to play the guitar, fly the airplain, go skiing and ice skating, and hiking. In addition, I also enjoy playing guitar in the worship team. Here are some videos of me playing guitar in the worship team and flying airplain:
 
+
 ## Worship 
 Occationally, I play guitar at the worship team at [Redemmer church](https://redeemer.ch/) at Niles, Michigan. Here are few videos:
 
