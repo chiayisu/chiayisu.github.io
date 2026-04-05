@@ -22,7 +22,7 @@ Student Volunteer: [ASE'24](https://conf.researchr.org/home/ase-2024)
 
 PC member: [AIAI'26](https://ifipaiai.org/), [ASE'25 NIER](https://conf.researchr.org/track/ase-2025/ase-2025-nier-track)
 
-Reviewer: [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem), [Springer Automated Software Engineering Journal](https://link.springer.com/journal/10515)
+Reviewer: [Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software), [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem), [Springer Automated Software Engineering Journal](https://link.springer.com/journal/10515), [Cognitive Computational Neuroscience](https://2026.ccneuro.org/)
 
 <!---
 News
