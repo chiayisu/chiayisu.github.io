@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I'm a Ph.D. Candidate in Computer Science and Engineering at [University of Notre Dame](https://cse.nd.edu/), advised by [Collin McMillan](https://sdf.org/~cmc/) in [Automatic Program Comprehension Lab](https://github.com/apcl-research). My research interests lie in artificial intelligence with the applications to software engineering (AI4SE). I develop human-aligned LLMs based on the empirical studies that understands how human programmers comprehend code in various SE tasks (e.g. source code summarization and bug localization). My goal is to increase the productivity of software engineer by developing human-like software angents. Here are some RQs that I have explored:
-- How can we develop a framework to include the context that programmers use for software engineering tasks ? ([ICPC'26 Demo](https://arxiv.org/abs/2601.14434)), ([JSS 2025](https://www.sciencedirect.com/science/article/abs/pii/S0164121225002493)), ([ASE Journal 2024](https://link.springer.com/article/10.1007/s10515-024-00421-4)), ([ASE Journal 2024](https://link.springer.com/article/10.1007/s10515-024-00460-x)),  ([JSEP 2024](https://onlinelibrary.wiley.com/doi/10.1002/smr.2706?af=R))
+- How can we develop a framework to include the context that programmers use for software engineering tasks ? ([ICPC'26 Demo](https://arxiv.org/abs/2601.14434)), ([JSS'25](https://www.sciencedirect.com/science/article/abs/pii/S0164121225002493)), ([ASE Journal'24](https://link.springer.com/article/10.1007/s10515-024-00421-4)), ([ASE Journal'24](https://link.springer.com/article/10.1007/s10515-024-00460-x)),  ([JSEP'24](https://onlinelibrary.wiley.com/doi/10.1002/smr.2706?af=R))
 - How can we develop a human-aligned LLMs for software engineering tasks ? ([EMSE'26](https://link.springer.com/article/10.1007/s10664-026-10853-z)), ([ASE'23 NIER](https://ieeexplore.ieee.org/abstract/document/10298441))
 
   
@@ -19,7 +19,7 @@ Activities
 ===========
 Student Volunteer: [ASE'24](https://conf.researchr.org/home/ase-2024)
 
-PC member: [AIAI'26](https://ifipaiai.org/), [ASE'25 NIER](https://conf.researchr.org/track/ase-2025/ase-2025-nier-track)
+PC member: [ASE'26 NIER](https://conf.researchr.org/track/ase-2026/ase-2026-nier) [AIAI'26](https://ifipaiai.org/), [ASE'25 NIER](https://conf.researchr.org/track/ase-2025/ase-2025-nier-track)
 
 Reviewer: [Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software), [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem), [Springer Automated Software Engineering Journal](https://link.springer.com/journal/10515), [Cognitive Computational Neuroscience (CCN'26)](https://2026.ccneuro.org/)
 
