@@ -19,6 +19,9 @@ Outside of work, I like to play the guitar, fly the airplain, go skiing and ice 
 ## Worship 
 Occasionally, I play guitar at the worship team at [Redemmer church](https://redeemer.ch/) at Niles, Michigan. Here are few videos:
 
+- May 11th, 2026
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u6dIR4-eWLk?si=TdL-RqUM_dB8_oN0&amp;start=869" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - May 3rd, 2026
 <iframe width="560" height="315" src="https://www.youtube.com/embed/57fvxYhKj40?si=3NG0PlMzIS8a4U4F&amp;start=790" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -36,11 +39,11 @@ Occasionally, I play guitar at the worship team at [Redemmer church](https://red
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UwmbJxkDoKc?si=xB3K1PlwNNsfQ-BD&amp;start=350" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- December 28th, 2026
+- December 28th, 2025
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0v5vO0kV1iU?si=_4-uSVw46DPG6Mqq&amp;start=371" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- December 14th, 2026
+- December 14th, 2025
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qSU_zyUGjkE?si=jzIgVN4f8Xh2nIh8&amp;start=351" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
