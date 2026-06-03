@@ -15,10 +15,7 @@ I complete my Ph.D. in Computer Science and Engineering at [University of Notre 
   
 
 
-<!---
+
 News
 ======
-- March 2022, I'm pleased to attend [Computer Science and Engineering](https://cse.nd.edu/) at [University of Notre Dame](https://www.nd.edu/) as a Ph.D. student starting this Fall.
-- February 2022, My paper "[AidIR: An Interactive Dialog System to Aid Disease Information Retrieval](https://www.mdpi.com/2076-3417/12/4/1875)" has been accepted to [Applied Sciences](https://www.mdpi.com/journal/applsci).
-- October 2021, Site published.
---->
+- May 2026, I have defended my dissertation, Human-Guided Language Models for Source Code Summarization. I will be joining [York University](https://lassonde.yorku.ca/academics/computer-science) to work with [Maleknaz Nayebi](https://www.maleknazn.ca/) as a postdoc fellow.
