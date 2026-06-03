@@ -18,4 +18,4 @@ I complete my Ph.D. in Computer Science and Engineering at [University of Notre 
 
 News
 ======
-- May 2026, I have defended my dissertation, Human-Guided Language Models for Source Code Summarization. I will be joining [York University](https://lassonde.yorku.ca/academics/computer-science) to work with [Maleknaz Nayebi](https://www.maleknazn.ca/) as a postdoc fellow.
+- **May 2026**, I have defended my dissertation, Human-Guided Language Models for Source Code Summarization. I will be joining [York University](https://lassonde.yorku.ca/academics/computer-science) to work with [Maleknaz Nayebi](https://www.maleknazn.ca/) as a postdoc fellow starting this August.
