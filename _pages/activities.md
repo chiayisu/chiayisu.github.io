@@ -4,7 +4,6 @@ title: "Activities"
 permalink: /activities/
 author_profile: true
 ---
-## Activities
 
 Student Volunteer: [ASE'24](https://conf.researchr.org/home/ase-2024)
 
