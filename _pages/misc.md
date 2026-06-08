@@ -19,6 +19,9 @@ Outside of work, I like to play the guitar, fly the airplain, go skiing and ice 
 ## Worship 
 Occasionally, I play guitar at the worship team at [Redemmer church](https://redeemer.ch/) at Niles, Michigan. Here are few videos:
 
+- June 7th, 2026
+<iframe width="1396" height="785" src="https://www.youtube.com/embed/vsm6jHmyWAg" title="The Words of Jesus (Matthew 7:24-8:1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - May 10th, 2026
 <iframe width="560" height="315" src="https://www.youtube.com/embed/71fCQxUjwTQ?si=7HZk3NESN2oOtgZe&amp;start=880" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
