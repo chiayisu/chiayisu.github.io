@@ -15,8 +15,13 @@ author_profile: true
 
 Outside of work, I like to play the guitar, fly the airplain, go skiing and ice skating, and hiking. In addition, I also enjoy playing guitar in the worship team. Here are some videos of me playing guitar in the worship team and flying airplain:
 
+## Pilot Training
+When I have times, I like to fly the airplain. Here is the photo that I took in Fall last year when I went out to practice some maneuvering. I'm still a student pilot because I've been busy and don't have too much time to fly recently.
 
-## Worship 
+![Pilot Training](/files/pilot_training.jpg)
+
+
+## Guitar Playing at Worship Team 
 Occasionally, I play guitar at the worship team at [Redemmer church](https://redeemer.ch/) at Niles, Michigan. Here are few videos:
 
 - June 14th, 2026
@@ -53,7 +58,4 @@ Occasionally, I play guitar at the worship team at [Redemmer church](https://red
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qSU_zyUGjkE?si=jzIgVN4f8Xh2nIh8&amp;start=351" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-## Pilot Training
-When I have times, I like to fly the airplain. Here is the photo that I took in Fall last year when I went out to practice some maneuvering. I'm still a student pilot because I've been busy and don't have too much time to fly recently.
 
-![Pilot Training](/files/pilot_training.jpg)
