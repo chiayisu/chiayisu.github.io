@@ -20,6 +20,7 @@ When I have times, I like to fly the airplain. Here is the photo that I took in 
 
 ![Pilot Training](/files/pilot_training.jpg)
 
+<img src="/files/pilot_training.jpg" alt="Pilot Training" height="300">
 
 ## Guitar Playing at Worship Team 
 Occasionally, I play guitar at the worship team at [Redemmer church](https://redeemer.ch/) at Niles, Michigan. Here are few videos:
