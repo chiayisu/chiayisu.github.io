@@ -18,8 +18,8 @@ Outside of work, I like to play the guitar, fly the airplain, go skiing and ice 
 ## Pilot Training
 When I have times, I like to fly the airplain. Here is the photo that I took in Fall last year when I went out to practice some maneuvering. I'm still a student pilot because I've been busy and don't have too much time to fly recently.
 
-![Pilot Training](/files/pilot_training.jpg)
-
+<!---![Pilot Training](/files/pilot_training.jpg)
+--->
 <img src="/files/pilot_training.jpg" alt="Pilot Training" height="500">
 
 ## Guitar Playing at Worship Team 
