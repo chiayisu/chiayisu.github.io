@@ -28,6 +28,7 @@ Occasionally, I play guitar at the worship team at [Redemmer church](https://red
 - July 5th, 2026
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xijpQ2C2qJM?si=n9yK3l7U_5Rn8Dk1&amp;start=856" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
 - June 14th, 2026
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o-OlX4azcdc?si=040f4pvQe7pwfk1y&amp;start=881" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
