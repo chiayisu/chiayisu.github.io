@@ -9,6 +9,8 @@ author_profile: true
 {% endif %}
 
 ### **2026**
+M. Dhakal, **C. Su**, R. Wallace, C. Fakhimi, A. Bansal, T. Li, Y. Huang, C. McMillan "A Grounded Theory Study to Guide AI-Driven Code Comment Improvement", in Journal of Software: Evolution and Process ([JSEP](https://onlinelibrary.wiley.com/journal/20477481)), accepted, 2026.
+
 **C. Su** and C. McMillan, "Do Code LLMs Do Static Analysis?", in Empirical Software Engineering ([EMSE](https://link.springer.com/journal/10664)), accepted March 2026. [[preprint]](https://arxiv.org/abs/2505.12118) [[code]](https://github.com/apcl-research/llm-reason) [[data/model]](https://huggingface.co/apcl/llm_reason)
 
 **C. Su** and C. McMillan, "CMind: An AI Agent for Localizing C Memory Bugs", in 34th IEEE/ACM International Conference on Program Comprehension, Tool Demos ([ICPC'26 Demo](https://conf.researchr.org/track/icpc-2026/icpc-2026-tool-demonstration)), April 12 - 13, 2026. [[guide](https://apclbuglocalizer.github.io/)]
