@@ -7,7 +7,7 @@ author_profile: true
 
 **Student Volunteer:** [ASE'24](https://conf.researchr.org/home/ase-2024)
 
-**Shallow PC:** [ICSE'27](https://conf.researchr.org/track/icse-2027/icse-2027-shadow-research-track-program-committee)
+**Shadow PC:** [ICSE'27](https://conf.researchr.org/track/icse-2027/icse-2027-shadow-research-track-program-committee)
 
 **PC member:** [NDSS'27 Artifact](https://www.ndss-symposium.org/ndss2027/submissions/call-for-artifacts/), [ASE'26 Artifact](https://conf.researchr.org/track/ase-2026/ase-2026-artifact-evaluation), [FSE'26 Artifact](https://conf.researchr.org/track/fse-2026/fse-2026-artifacts), [ASE'26 NIER](https://conf.researchr.org/track/ase-2026/ase-2026-nier), [AIAI'26](https://ifipaiai.org/), [ASE'25 NIER](https://conf.researchr.org/track/ase-2025/ase-2025-nier-track)
 
