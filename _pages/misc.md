@@ -25,6 +25,9 @@ When I have times, I like to fly the airplain. Here is the photo that I took in 
 ## Guitar Playing at Worship Team 
 Occasionally, I play guitar at the worship team at [Redemmer church](https://redeemer.ch/) at Niles, Michigan. Here are few videos:
 
+-July 19th, 2026
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IK05wE_4MWc?si=RwtNULd_NLkUXwor&amp;start=884" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - July 5th, 2026
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xijpQ2C2qJM?si=n9yK3l7U_5Rn8Dk1&amp;start=856" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
