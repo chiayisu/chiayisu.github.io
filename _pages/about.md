@@ -10,7 +10,7 @@ redirect_from:
 
 I complete my Ph.D. in Computer Science and Engineering at [University of Notre Dame](https://cse.nd.edu/), advised by [Collin McMillan](https://sdf.org/~cmc/) in [Automatic Program Comprehension Lab](https://github.com/apcl-research). My research interests lie in artificial intelligence with the applications to software engineering (AI4SE). I develop human-aligned LLMs based on the empirical studies that understands how human programmers comprehend source code in various SE tasks (e.g., source code summarization and bug localization). Here are some topics that I have explored:
 - **Context-aware LLMs:** ([ICPC'26 Demo](https://arxiv.org/abs/2601.14434)), ([JSS'25](https://www.sciencedirect.com/science/article/abs/pii/S0164121225002493)), ([ASE Journal'24](https://link.springer.com/article/10.1007/s10515-024-00421-4)), ([ASE Journal'24](https://link.springer.com/article/10.1007/s10515-024-00460-x))
-- **Human-aligned LLMs:** ([Arxiv'26](https://arxiv.org/abs/2607.14535)), ([EMSE'26](https://link.springer.com/article/10.1007/s10664-026-10853-z)), ([JSEP'24](https://onlinelibrary.wiley.com/doi/10.1002/smr.2706?af=R)), ([ASE'23 NIER](https://ieeexplore.ieee.org/abstract/document/10298441))
+- **Human-aligned LLMs:** ([Preprint'26](https://arxiv.org/abs/2607.14535)), ([EMSE'26](https://link.springer.com/article/10.1007/s10664-026-10853-z)), ([JSEP'24](https://onlinelibrary.wiley.com/doi/10.1002/smr.2706?af=R)), ([ASE'23 NIER](https://ieeexplore.ieee.org/abstract/document/10298441))
 
   
 
