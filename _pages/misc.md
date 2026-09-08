@@ -13,19 +13,19 @@ author_profile: true
 {% endfor %}
 -->
 
-Outside of work, I like to play the guitar, fly the airplain, go skiing and ice skating, and hiking. In addition, I also enjoy playing guitar in the worship team. Here are some videos of me playing guitar in the worship team and flying airplain:
+Outside of work, I like to play the guitar, fly the airplain, go skiing and ice skating, and hiking. I also played guitar in the worship team at [Redemmer church](https://redeemer.ch/) at Niles, Michigan when I was a PhD student. Here are some videos of me playing guitar in the worship team and flying airplain:
 
 ## Pilot Training
-When I have times, I like to fly the airplain. Here is the photo that I took in Fall last year when I went out to practice some maneuvering. I'm still a student pilot because I've been busy and don't have too much time to fly recently.
+I took the fly lesson during my PhD.  Here is the photo that I took in Fall 2025 when I went out to practice some maneuvering. I'm still a student pilot because I was too busy to finish the license.
 
 <!---![Pilot Training](/files/pilot_training.jpg)
 --->
 <img src="/files/pilot_training.jpg" alt="Pilot Training" style="width:500px;">
 
 ## Guitar Playing at Worship Team 
-Occasionally, I play guitar at the worship team at [Redemmer church](https://redeemer.ch/) at Niles, Michigan. Here are few videos:
+I played guitar at the worship team at [Redemmer church](https://redeemer.ch/) at Niles, Michigan when I was a PhD student. Here are few videos:
 
--July 19th, 2026
+- July 19th, 2026
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IK05wE_4MWc?si=RwtNULd_NLkUXwor&amp;start=884" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - July 5th, 2026
