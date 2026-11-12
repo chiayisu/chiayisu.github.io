@@ -10,6 +10,8 @@ main:
 #    url: /teaching/ 
   - title: "Activities"
     url: /activities/
+  - title: "Talks"
+    url: /talk/
 
   #- title: "CV"
   #  url: /files/CV.pdf  
