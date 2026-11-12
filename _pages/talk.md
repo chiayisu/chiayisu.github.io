@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Talks"
+permalink: /talks/
+author_profile: true
+---
+
+**Research talk:** "Human-Guided Language Models for Source Code Summarization," in Consortium for Software Engineering Research 2026 Fall Meeting.
+
+**Research talk:** "Human-Guided Language Models for Source Code Summarization," in Lassonde School of Engineering, York University.
+
+**Journal-first presentation:** "Distilled GPT for Source Code Summarization," in 39th IEEE/ACM International Conference on Automated Software Engineering.
+
+**Conference paper presentation:** "A Language Model of Java Methods with Train/Test Deduplication," in ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'23).
+
+**Conference paper presentation:** "Modeling Programmer Attention as Scanpath Prediction," in IEEE/ACM International Conference on Automated Software Engineering (ASE'23).
